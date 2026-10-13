@@ -24,7 +24,7 @@ vector<string> solution(vector<string> strArr) {
 }
 
 // 아스키코드 활용
-string solution(string my_string, int n) {
+vector<string> solution(vector<string> strArr) {
     for (int i = 0; i < strArr.size(); i++) {
         if (i % 2 == 0) {
             for (int j = 0; j < strArr[i].size(); j++) {
