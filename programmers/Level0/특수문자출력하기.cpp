@@ -3,6 +3,6 @@
 using namespace std;
 
 int main(void) {
-    cout << "!@#$%^&*(\\\`\"<>?:;";
+    cout << "!@#$%^&*(\\\'\"<>?:;";
     return 0;
 }
