@@ -6,7 +6,17 @@ int main () {
     int n;
     cin >> n;
 
-    청소 당번은 바로 너!!!!!1
-    마!!! 참!!! 치!!!
-    // <- 우희정이 씀
+    for (int i = 1; i <= n; i++) {
+        if (i % 12 == 0) {
+            restroom++;
+        } else if (i % 3 == 0) {
+            corridor++;
+        } else if (i % 2 == 0) {
+            classroom++;
+        }
+    }
+
+    cout << classroom << " " << corridor << " " << restroom;
+
+    return 0;
 }
