@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue" value="3" type="long" />
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="780f06e9-e72b-43e1-bf98-9d3c7906d256" name="변경" comment="add:문자 변경하기" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MaTuna01"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MaTuna01/Algorithm.git",
+    "accountId": "07315c44-5410-41b5-a42d-9dda4c2ed591"
+  }
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.486719507576051" />
+      <entry key="MS500" value="4.365520696045713" />
+      <entry key="S2" value="7.230275735989172" />
+      <entry key="S5" value="8.21552744876395" />
+      <entry key="S10" value="8.593953231870628" />
+      <entry key="S30" value="9.23902428220672" />
+      <entry key="S60" value="11.568238467422324" />
+      <entry key="M2" value="17.36672747461129" />
+      <entry key="M5" value="28.799391396150817" />
+      <entry key="M10" value="36.93242768081343" />
+      <entry key="M15" value="40.88398049545504" />
+      <entry key="M30" value="48.59497063422483" />
+      <entry key="H1" value="61.68479842953288" />
+      <entry key="H2" value="77.3769375790782" />
+      <entry key="H4" value="90.10515906394103" />
+      <entry key="D1" value="104.57449993007718" />
+      <entry key="W1" value="107.49848868178007" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="1.5728539680320795E-92" />
+      <entry key="S2" value="1.1198815780046357E-23" />
+      <entry key="S5" value="6.601938360944542E-10" />
+      <entry key="S10" value="2.5757329110520657E-5" />
+      <entry key="S30" value="0.03349096130298706" />
+      <entry key="S60" value="0.23488792082791604" />
+      <entry key="M2" value="0.6656764685362707" />
+      <entry key="M5" value="1.2785260524117323" />
+      <entry key="M10" value="1.5987853119760524" />
+      <entry key="M15" value="1.751535015159533" />
+      <entry key="M30" value="2.4242580981836412" />
+      <entry key="H1" value="4.417383648486848" />
+      <entry key="H2" value="7.191938991857839" />
+      <entry key="H4" value="9.563543610102183" />
+      <entry key="D1" value="12.335057660469078" />
+      <entry key="W1" value="12.902465522600394" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.385675023597347" />
+      <entry key="MS500" value="4.278092841105332" />
+      <entry key="S2" value="7.195043468681905" />
+      <entry key="S5" value="8.199765169833265" />
+      <entry key="S10" value="8.585777477585287" />
+      <entry key="S30" value="9.266623027874788" />
+      <entry key="S60" value="11.79066919343401" />
+      <entry key="M2" value="18.015621746921628" />
+      <entry key="M5" value="30.06494949957093" />
+      <entry key="M10" value="38.5230159707122" />
+      <entry key="M15" value="42.629521320139574" />
+      <entry key="M30" value="51.01536753734912" />
+      <entry key="H1" value="66.09912855848174" />
+      <entry key="H2" value="84.56659248442651" />
+      <entry key="H4" value="99.66724077316638" />
+      <entry key="D1" value="116.90925205077721" />
+      <entry key="W1" value="120.4009087515218" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3L1hkwmpNOw8k3wMYWdZpLAKu1S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "CidrDebugProfileConversion": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "codetree",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/machanyoung/Algorithm/Codetree/Trail1/Chap1/lesson3",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.mcpserver.settings",
+    "to.speed.mode.migration.done": "true",
+    "애플리케이션.Main.executor": "Run"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Codetree/Trail1/Chap1/lesson3" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Codetree/Trail1/Chap1/lesson1" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="780f06e9-e72b-43e1-bf98-9d3c7906d256" name="변경" comment="" />
+      <created>1792627631615</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792627631615</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add:단어출력-java" />
+    <MESSAGE value="add:문장출력-java" />
+    <MESSAGE value="add:따옴표 출력-java" />
+    <MESSAGE value="add:2줄 출력-java" />
+    <MESSAGE value="add:숫자출력-java" />
+    <MESSAGE value="add:숫자 2개 출력-java" />
+    <MESSAGE value="refact:디렉토리 정리" />
+    <MESSAGE value="add:한줄 출력" />
+    <MESSAGE value="add:두줄 출력" />
+    <MESSAGE value="add:다양하게 출력" />
+    <MESSAGE value="add:정수 선언하고 뺄셈" />
+    <MESSAGE value="add:변수 선언하기" />
+    <MESSAGE value="add:정수 선언하고 곱 출력" />
+    <MESSAGE value="add:세 정수형 변수 선언" />
+    <MESSAGE value="add:변수 출력하기" />
+    <MESSAGE value="add:변수 출력하기2" />
+    <MESSAGE value="add:변수 출력하기3" />
+    <MESSAGE value="add:달에서 무게 구하기" />
+    <MESSAGE value="add:소수점 반올림하기" />
+    <MESSAGE value="add:길이 단위 변환하기" />
+    <MESSAGE value="add:두 실수의 곱" />
+    <MESSAGE value="add:변수 값 교체하기" />
+    <MESSAGE value="add:변수값 교체하기4" />
+    <MESSAGE value="add:문자 변경하기" />
+    <option name="LAST_COMMIT_MESSAGE" value="add:문자 변경하기" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
