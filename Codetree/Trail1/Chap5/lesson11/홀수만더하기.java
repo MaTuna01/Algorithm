@@ -8,9 +8,10 @@ public class Main {
         int result = 0;
         for (int i = 0; i < n; i++) {
             int m = sc.nextInt();
-            result += m;
+            if (m % 2 != 0 && m % 3 ==0) {
+                result += m;
+            }
         }
-
         System.out.println(result);
     }
 }
